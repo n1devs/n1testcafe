@@ -22,8 +22,8 @@ class LoginPage {
 		this.signupLink = Selector('a[href="#/public/signup"]');
 		this.forgotPasswordLink = Selector('a[href="#/public/enter-your-details"]');
 		this.alertMessage = Selector('n1-alert-message');
-		this.errorMessage = this.alertMessage.withAttribute('name', 'failed_login');
-		this.bannedMessage = this.alertMessage.withAttribute('name', 'locked_down');
+		this.errorMessage = this.alertMessage.withAttribute('name', 'failedLogin');
+		this.bannedMessage = this.alertMessage.withAttribute('name', 'forbidden');
 	}
 
 	async submitForm(login: Account) {
