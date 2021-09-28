@@ -17,10 +17,8 @@ Please notify send also an email to the next email when the assignment is finali
 
 If you have any questions during the assignment please feel free to contact us.
 
-1. mla@novemberfirst.com
-2. ab@novemberfirst.com
-3. rc@novemberfirst.com
-4. pv@novemberfirst.com
+1. rc@novemberfirst.com
+2. pv@novemberfirst.com
 
 ## What to deliver.
 
